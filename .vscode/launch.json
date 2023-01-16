@@ -1,0 +1,140 @@
+{
+     // Use IntelliSense to learn about possible attributes.
+     // Hover to view descriptions of existing attributes.
+     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+     "version": "0.2.0",
+     "configurations": [
+          {
+               "type": "java",
+               "name": "Launch age",
+               "request": "launch",
+               "mainClass": "age",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch condition",
+               "request": "launch",
+               "mainClass": "condition",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch F",
+               "request": "launch",
+               "mainClass": "F",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch OppsStudent$TestJavaprogram",
+               "request": "launch",
+               "mainClass": "OppsStudent$TestJavaprogram",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch OppsStudent",
+               "request": "launch",
+               "mainClass": "OppsStudent",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch Student$Teststaticvariable",
+               "request": "launch",
+               "mainClass": "Student$Teststaticvariable",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch Student",
+               "request": "launch",
+               "mainClass": "Student",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch second",
+               "request": "launch",
+               "mainClass": "second",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch TestJavaprogram",
+               "request": "launch",
+               "mainClass": "TestJavaprogram",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch Javaprogram",
+               "request": "launch",
+               "mainClass": "Javaprogram",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch Bank",
+               "request": "launch",
+               "mainClass": "Bank",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch Interface",
+               "request": "launch",
+               "mainClass": "Interface",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch opps",
+               "request": "launch",
+               "mainClass": "opps",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch Current File",
+               "request": "launch",
+               "mainClass": "${file}"
+          },
+          {
+               "type": "java",
+               "name": "Launch Calculator",
+               "request": "launch",
+               "mainClass": "Calculator",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch HashMap1",
+               "request": "launch",
+               "mainClass": "HashMap1",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch operator",
+               "request": "launch",
+               "mainClass": "operator",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch pattern",
+               "request": "launch",
+               "mainClass": "pattern",
+               "projectName": "java_a7cf075c"
+          },
+          {
+               "type": "java",
+               "name": "Launch recursion2",
+               "request": "launch",
+               "mainClass": "recursion2",
+               "projectName": "java_a7cf075c"
+          }
+     ]
+}
